@@ -1,4 +1,8 @@
 # 《程序员的孙子兵法》The Programmer's Art of War
+![front_cover](https://github.com/user-attachments/assets/08f742f2-5298-4119-a79c-202e1c30a469)
+
+
+#  善用代码者，胜于兵锋。Those who master code surpass the power of armies.
 
 ## 🖋 作者简介
 
@@ -42,30 +46,19 @@ This book is not about writing faster code, but about thinking strategically: ho
 我们参考《孙子兵法》十三篇，将其逐章转化为程序员的战略指导，每一篇均包含：
 Inspired by the 13 chapters of Sun Tzu's Art of War, we reinterpret each one for programmers, with:
 
-* 原文与英译
-* Original Text with English Translation
-* 程序员解读
-* Programmer Interpretation
-* 实战应用场景
-* Real-world Application Scenarios
-* 技术格言
-* Technical Aphorisms
-* C# 示例代码
-* C# Code Examples
-* Mermaid 架构图
-* Mermaid Architecture Diagrams
+* 原文与英译 Original Text with English Translation
+* 程序员解读 Programmer Interpretation
+* 实战应用场景 Real-world Application Scenarios
+* 技术格言 Technical Aphorisms
+* C# 示例代码 C# Code Examples
+* Mermaid 架构图 Mermaid Architecture Diagrams
 
-适合以下读者阅读：
-Recommended for:
+适合以下读者阅读：Recommended for:
 
-* 技术 Leader
-* Tech Leads
-* 架构师 / DevOps / SRE
-* Architects / DevOps / SRE
-* 中高级程序员
-* Intermediate to Senior Developers
-* 产品与项目协作者
-* Product Managers and PMs
+* 技术 Leader (Tech Leads)
+* 架构师 / DevOps / SRE (Architects / DevOps / SRE)
+* 中高级程序员 (Intermediate to Senior Developers)
+* 产品与项目协作者 (Product Managers and PMs)
 
 愿你我在数字世界中，既能写好代码，也能排兵布阵、洞察先机。
 May we all code like soldiers, and architect like generals in the digital age.
@@ -74,6 +67,7 @@ May we all code like soldiers, and architect like generals in the digital age.
 > "Those who master code surpass the power of armies."
 
 ---
+
 ### 📖 目录（Index）
 
 | 篇章编号 | 原文篇名 | 软件工程对应副标题（中英对照）                                                             |
@@ -90,13 +84,10 @@ May we all code like soldiers, and architect like generals in the digital age.
 | [第十篇](https://github.com/uwspstar/The-Programmer-s-Art-of-War/blob/main/%E7%AC%AC%E5%8D%81%E7%AF%87%EF%BC%9A%E5%9C%B0%E5%BD%A2%E7%AF%87%20Terrain.md)  | 地形篇  | **环境适配**：云原生、混合云与本地部署 *(Terrain Awareness: Cloud vs Hybrid vs On-Prem)*     |
 | [第十一篇](https://github.com/uwspstar/The-Programmer-s-Art-of-War/blob/main/%E7%AC%AC%E5%8D%81%E4%B8%80%E7%AF%87%EF%BC%9A%E4%B9%9D%E5%9C%B0%E7%AF%87%20The%20Nine%20Grounds.md) | 九地篇  | **开发环境**：沙盒、测试、预发与生产 *(Nine Environments: Dev/Test/Staging/Prod)*           |
 | [第十二篇](https://github.com/uwspstar/The-Programmer-s-Art-of-War/blob/main/%E7%AC%AC%E5%8D%81%E4%BA%8C%E7%AF%87%EF%BC%9A%E7%81%AB%E6%94%BB%E7%AF%87%20Attack%20by%20Fire.md) | 火攻篇  | **异常处理**：Bug 火线、监控与报警 *(Fire Attacks: Error Handling and Monitoring)*       |
-| [第十三篇]() | 用间篇  | **信息战术**：日志分析、数据驱动决策 *(Intelligence: Logs, Metrics & Observability)*        |
+| [第十三篇](https://github.com/uwspstar/The-Programmer-s-Art-of-War/blob/main/%E7%AC%AC%E5%8D%81%E4%B8%89%E7%AF%87%EF%BC%9A%E7%94%A8%E9%97%B4%E7%AF%87%20The%20Use%20of%20Spies.md) | 用间篇  | **信息战术**：日志分析、数据驱动决策 *(Intelligence: Logs, Metrics & Observability)*        |
 
 ---
-📘《程序员的孙子兵法》
-The Programmer’s Art of War
-
----
+📘《程序员的孙子兵法》The Programmer’s Art of War
 
 ## 🗂️ 附录结构 Appendices
 
