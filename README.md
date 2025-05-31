@@ -1,6 +1,4 @@
-# 《程序员的孙子兵法》
-
-**The Programmer's Art of War**
+# 《程序员的孙子兵法》The Programmer's Art of War
 
 ### 📖 目录（Index）
 
@@ -20,16 +18,3 @@
 | 第十二篇 | 火攻篇  | **异常处理**：Bug 火线、监控与报警 *(Fire Attacks: Error Handling and Monitoring)*       |
 | 第十三篇 | 用间篇  | **信息战术**：日志分析、数据驱动决策 *(Intelligence: Logs, Metrics & Observability)*        |
 
----
-
-### 📎 附录（Appendices）
-
-* **附录一**：技术格言大全（中英对照）
-* **附录二**：C# 示例索引
-* **附录三**：系统架构图目录（含 Mermaid 源码）
-* **附录四**：术语表（开发术语与兵法术语对照）
-* **附录五**：封底二维码页（语音朗读、推广页）
-
----
-
-是否需要我现在开始**生成第一篇内容（中英对照 + 程序员解读 + C#代码 + 架构图）**？或者我们先来设计封面样式草图？
