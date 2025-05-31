@@ -1,3 +1,5 @@
+[Back to 目录（Index）](https://github.com/uwspstar/The-Programmer-s-Art-of-War/blob/main/Index.md)
+
 ## 第八篇：九变篇
 
 **Chapter 8: Variations and Adaptability**
