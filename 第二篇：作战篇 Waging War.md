@@ -120,8 +120,3 @@ flowchart LR
 
 > * 自动决策与资源评估机制，能提升团队稳定交付能力
 > * Automated planning enhances the team’s ability to deliver consistently and calmly
-
----
-
-是否继续撰写**第三篇《谋攻篇》：架构攻防与技术战略**？
-或是否要我开始将这两篇内容排版生成 PDF 样例供你预览？
