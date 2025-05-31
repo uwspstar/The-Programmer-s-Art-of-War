@@ -5,7 +5,6 @@
 **About the Authors**
 
 ### 👨‍💻 Xing Wang
-![xing](https://github.com/user-attachments/assets/9575460d-ff93-4dd8-8816-b401ce3e4715)
 <img src="https://github.com/user-attachments/assets/9575460d-ff93-4dd8-8816-b401ce3e4715" width="200" alt="Resized Xing Image">
 
 Xing Wang 是一位资深软件架构师，拥有超过 15 年的软件工程与系统设计经验，专注于企业级系统架构、微服务部署、DevOps 自动化与人工智能在工程中的实践。
@@ -15,7 +14,7 @@ Xing Wang is a seasoned software architect with over 15 years of experience in e
 He is passionate about fusing classical Eastern philosophy with modern technology, bringing strategic thinking from ancient warfare into the realm of programming and system design.
 
 ### 🤝 联合作者：Allen Wang
-![allen](https://github.com/user-attachments/assets/8b9e3d28-9ee4-4007-9fb8-89e07ad0232d)
+<img src="https://github.com/user-attachments/assets/8b9e3d28-9ee4-4007-9fb8-89e07ad0232d" width="200" alt="Allen" />
 
 **Co-Author: Allen Wang**
 Allen Wang 是一位资深软件架构师与全栈开发者，擅长技术写作、系统可观测性与产品化思维。
