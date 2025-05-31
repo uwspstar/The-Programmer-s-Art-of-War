@@ -2,7 +2,8 @@
 ![front_cover](https://github.com/user-attachments/assets/08f742f2-5298-4119-a79c-202e1c30a469)
 
 
-#  善用代码者，胜于兵锋。Those who master code surpass the power of armies.
+# 善用代码者，胜于兵锋。
+# Those who master code surpass the power of armies.
 
 ## 🖋 作者简介
 
