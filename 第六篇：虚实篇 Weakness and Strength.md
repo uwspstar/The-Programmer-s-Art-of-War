@@ -1,3 +1,5 @@
+[Back to 目录（Index）](https://github.com/uwspstar/The-Programmer-s-Art-of-War/blob/main/Index.md)
+
 ## 第六篇：虚实篇
 
 **Chapter 6: Weakness and Strength**
