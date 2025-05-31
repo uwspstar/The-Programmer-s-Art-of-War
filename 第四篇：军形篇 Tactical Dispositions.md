@@ -1,3 +1,5 @@
+[Back to 目录（Index）](https://github.com/uwspstar/The-Programmer-s-Art-of-War/blob/main/Index.md)
+
 ## 第四篇：军形篇
 
 **Chapter 4: Tactical Dispositions**
