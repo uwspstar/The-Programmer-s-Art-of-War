@@ -110,8 +110,3 @@ flowchart TD
 > * Architects should align vision, set standards, and guide delivery cadence
 > * 所有代码规范、部署路径都应在启动阶段达成共识
 > * Code standards and deployment paths must be agreed upon during kickoff
-
----
-
-是否继续以这种风格撰写第二篇《作战篇》？
-或者现在开始排版为 PDF（含背景图、页脚装饰）供你预览？
