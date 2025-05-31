@@ -9,7 +9,7 @@
 
 **About the Authors**
 
-### 👨‍💻 Xing Wang
+### 作者：Xing Wang
 <img src="https://github.com/user-attachments/assets/9575460d-ff93-4dd8-8816-b401ce3e4715" width="200" alt="Resized Xing Image">
 
 Xing Wang 是一位资深软件架构师，拥有超过 15 年的软件工程与系统设计经验，专注于企业级系统架构、微服务部署、DevOps 自动化与人工智能在工程中的实践。
@@ -18,7 +18,7 @@ Xing Wang is a seasoned software architect with over 15 years of experience in e
 他热爱将东方智慧融入现代技术世界，致力于将古代兵法、道家哲学与编程思想结合，赋予软件开发更深层的战略价值。
 He is passionate about fusing classical Eastern philosophy with modern technology, bringing strategic thinking from ancient warfare into the realm of programming and system design.
 
-### 🤝 联合作者：Allen Wang
+### 联合作者：Allen Wang
 <img src="https://github.com/user-attachments/assets/8b9e3d28-9ee4-4007-9fb8-89e07ad0232d" width="200" alt="Allen" />
 
 **Co-Author: Allen Wang**
@@ -129,7 +129,8 @@ May we all code like soldiers, and architect like generals in the digital age.
 
 ---
 
-## 🏞️ 封底 Back Cover
+## 封底 Back Cover
+![back_cover](https://github.com/user-attachments/assets/c06dc7a0-5d08-4c9c-b139-9d9ff382ce9a)
 
 > 本书融合《孙子兵法》智慧与现代软件架构实践，十三篇章，逐一解构，字字千钧。
 > A fusion of Sun Tzu’s timeless wisdom and modern software architecture practice — chapter by chapter, line by line.
