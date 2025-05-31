@@ -114,10 +114,10 @@ public class IntelligenceAgent
 
 ```mermaid
 flowchart TD
-    A[应用服务] --> B[日志系统 (ELK)]
-    A --> C[指标系统 (Prometheus)]
-    A --> D[追踪系统 (Jaeger)]
-    B & C & D --> E[可观测性平台 (Grafana)]
+    A[应用服务] --> B[日志系统 ELK]
+    A --> C[指标系统 Prometheus]
+    A --> D[追踪系统 Jaeger]
+    B & C & D --> E[可观测性平台 Grafana]
     E --> F[运维响应 / AI 分析 / 自动扩容]
 ```
 
