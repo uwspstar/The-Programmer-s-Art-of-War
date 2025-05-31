@@ -4,7 +4,7 @@
 
 | 篇章编号 | 原文篇名 | 软件工程对应副标题（中英对照）                                                             |
 | ---- | ---- | --------------------------------------------------------------------------- |
-| 第一篇  | 计篇   | **战略规划**：项目启动与架构布局 *(Laying Plans: Project Kickoff & System Design)*        |
+| [第一篇](https://github.com/uwspstar/The-Programmer-s-Art-of-War/blob/main/%E7%AC%AC%E4%B8%80%E7%AF%87%EF%BC%9A%E8%AE%A1%E7%AF%87%20Laying%20Plans.md)  | 计篇   | **战略规划**：项目启动与架构布局 *(Laying Plans: Project Kickoff & System Design)*        |
 | 第二篇  | 作战篇  | **资源调度**：开发周期与交付控制 *(Managing Development Resources and Deadlines)*         |
 | 第三篇  | 谋攻篇  | **架构攻防**：技术选型与平台竞争 *(Architectural Offense & Defense: Tech Stack Strategy)* |
 | 第四篇  | 军形篇  | **团队结构**：组织架构与模块边界 *(Organizational Shape: Team and System Boundaries)*     |
