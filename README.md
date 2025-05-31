@@ -6,6 +6,7 @@
 
 ### 👨‍💻 Xing Wang
 ![xing](https://github.com/user-attachments/assets/9575460d-ff93-4dd8-8816-b401ce3e4715)
+<img src="https://github.com/user-attachments/assets/9575460d-ff93-4dd8-8816-b401ce3e4715" width="200" alt="Resized Xing Image">
 
 Xing Wang 是一位资深软件架构师，拥有超过 15 年的软件工程与系统设计经验，专注于企业级系统架构、微服务部署、DevOps 自动化与人工智能在工程中的实践。
 Xing Wang is a seasoned software architect with over 15 years of experience in enterprise systems, microservices, DevOps automation, and applied AI in engineering.
