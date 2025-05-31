@@ -1,3 +1,5 @@
+[Back to 目录（Index）](https://github.com/uwspstar/The-Programmer-s-Art-of-War/blob/main/Index.md)
+
 ## 第三篇：谋攻篇
 
 **Chapter 3: Attack by Stratagem**
