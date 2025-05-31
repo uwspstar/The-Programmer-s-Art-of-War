@@ -1,3 +1,5 @@
+[Back to 目录（Index）](https://github.com/uwspstar/The-Programmer-s-Art-of-War/blob/main/Index.md)
+
 ## 第十二篇：火攻篇
 
 **Chapter 12: Attack by Fire**
