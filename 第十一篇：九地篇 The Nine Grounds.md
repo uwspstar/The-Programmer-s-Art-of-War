@@ -109,11 +109,11 @@ public class EnvRouter
 
 ```mermaid
 flowchart LR
-    A[开发环境 Dev (散地)] --> B[联调环境 Test (轻地)]
-    B --> C[QA 环境 (争地)]
-    C --> D[预发布环境 Staging (交地)]
-    D --> E[生产环境 Prod (重地)]
-    E --> F[异常区域 DeadZone (死地)]
+    A[开发环境 Dev 散地] --> B[联调环境 Test 轻地]
+    B --> C[QA 环境 争地]
+    C --> D[预发布环境 Staging 交地]
+    D --> E[生产环境 Prod 重地]
+    E --> F[异常区域 DeadZone 死地]
 
     F -->|Hotfix| C
     style F fill:#faa,stroke:#800,stroke-width:2px
