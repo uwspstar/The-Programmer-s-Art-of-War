@@ -104,7 +104,7 @@ public class DeploymentAdvisor
 flowchart TB
     A[用户请求] --> B[API Gateway]
 
-    B --> C1[云服务 Cloud (AWS)]
+    B --> C1[云服务 Cloud AWS]
     B --> C2[本地服务 On-Prem]
     B --> C3[混合中转服务 Hybrid Router]
 
