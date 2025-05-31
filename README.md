@@ -8,7 +8,7 @@
 | [第二篇](https://github.com/uwspstar/The-Programmer-s-Art-of-War/blob/main/%E7%AC%AC%E4%BA%8C%E7%AF%87%EF%BC%9A%E4%BD%9C%E6%88%98%E7%AF%87%20Waging%20War.md) | 作战篇  | **资源调度**：开发周期与交付控制 *(Managing Development Resources and Deadlines)*         |
 | [第三篇](https://github.com/uwspstar/The-Programmer-s-Art-of-War/blob/main/%E7%AC%AC%E4%B8%89%E7%AF%87%EF%BC%9A%E8%B0%8B%E6%94%BB%E7%AF%87%20Attack%20by%20Stratagem.md)  | 谋攻篇  | **架构攻防**：技术选型与平台竞争 *(Architectural Offense & Defense: Tech Stack Strategy)* |
 | [第四篇](https://github.com/uwspstar/The-Programmer-s-Art-of-War/blob/main/%E7%AC%AC%E5%9B%9B%E7%AF%87%EF%BC%9A%E5%86%9B%E5%BD%A2%E7%AF%87%20Tactical%20Dispositions.md)  | 军形篇  | **团队结构**：组织架构与模块边界 *(Organizational Shape: Team and System Boundaries)*     |
-| [第五篇]()  | 兵势篇  | **势能利用**：技术杠杆与自动化优势 *(Using Momentum: Leverage and Automation)*             |
+| [第五篇](https://github.com/uwspstar/The-Programmer-s-Art-of-War/blob/main/%E7%AC%AC%E4%BA%94%E7%AF%87%EF%BC%9A%E5%85%B5%E5%8A%BF%E7%AF%87%20Strategic%20Power.md)  | 兵势篇  | **势能利用**：技术杠杆与自动化优势 *(Using Momentum: Leverage and Automation)*             |
 | [第六篇]()  | 虚实篇  | **虚实之道**：缓存、延迟加载与服务抽象 *(Visible vs Invisible: Caching & Abstraction)*       |
 | [第七篇]()  | 军争篇  | **竞品较量**：市场冲突与技术迭代 *(Competitive Warfare: Product vs Product)*              |
 | [第八篇]()  | 九变篇  | **灵活应变**：版本演进与策略切换 *(Adaptive Strategy: Iteration and Pivoting)*            |
