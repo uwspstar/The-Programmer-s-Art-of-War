@@ -7,22 +7,17 @@
 
 ### 原文 + 英译 Original & Translation 
 
-> **孙子曰：兵者，国之大事，死生之地，存亡之道，不可不察也。**
-> Sun Tzu said: The art of war is of vital importance to the State. It is a matter of life and death, a road either to safety or to ruin. Hence, it must be thoroughly examined.
+> **孙子曰：兵者，国之大事，死生之地，存亡之道，不可不察也。** Sun Tzu said: The art of war is of vital importance to the State. It is a matter of life and death, a road either to safety or to ruin. Hence, it must be thoroughly examined.
 
-> **故经之以五事，校之以计，而索其情：一曰道，二曰天，三曰地，四曰将，五曰法。**
-> Therefore, it must be assessed in terms of five factors and compared to derive the true situation: the Moral Law, Heaven, Earth, the Commander, and Method & Discipline.
+> **故经之以五事，校之以计，而索其情：一曰道，二曰天，三曰地，四曰将，五曰法。** Therefore, it must be assessed in terms of five factors and compared to derive the true situation: the Moral Law, Heaven, Earth, the Commander, and Method & Discipline.
 
 ### 程序员解读 Programmer's Interpretation
 
-> “兵者，国之大事”，正如架构之于系统，是系统成败的起点。
-> "War is of vital importance" — just like architecture is to a software system. It determines success or failure.
+> “兵者，国之大事”，正如架构之于系统，是系统成败的起点。"War is of vital importance" — just like architecture is to a software system. It determines success or failure.
 
-> 一个成功的软件项目，必须在启动阶段完成全面的战略规划。
-> A successful software project requires thorough strategic planning from the very beginning.
+> 一个成功的软件项目，必须在启动阶段完成全面的战略规划。A successful software project requires thorough strategic planning from the very beginning.
 
-> 孙子提出的五事原则，正可映射为软件工程五基石。
-> Sun Tzu's five factors map directly to the five cornerstones of software engineering.
+> 孙子提出的五事原则，正可映射为软件工程五基石。Sun Tzu's five factors map directly to the five cornerstones of software engineering.
 
 | 兵法五事        | 软件工程类比                                  |
 | ----------- | --------------------------------------- |
@@ -34,11 +29,9 @@
 
 ### 5W 战略提问法 5Ws Strategic Thinking Prompts
 
-5W 战略提问法，源于兵法“庙算多者胜”的思想，帮助项目负责人在动手编码前，从多个维度透视项目全局。
-The 5Ws framework is derived from Sun Tzu's idea that "those who make many calculations in the temple before the war will win." It helps tech leads grasp the full scope of a project before a single line of code is written.
+5W 战略提问法，源于兵法“庙算多者胜”的思想，帮助项目负责人在动手编码前，从多个维度透视项目全局。 The 5Ws framework is derived from Sun Tzu's idea that "those who make many calculations in the temple before the war will win." It helps tech leads grasp the full scope of a project before a single line of code is written.
 
-每一个“W”对应一个兵法中的关键考量：战略目标、敌我态势、战场环境、时间窗口、资源部署。
-Each "W" maps to a key principle in warfare: strategic goal, enemy understanding, battlefield condition, timing, and resource placement.
+每一个“W”对应一个兵法中的关键考量：战略目标、敌我态势、战场环境、时间窗口、资源部署。 Each "W" maps to a key principle in warfare: strategic goal, enemy understanding, battlefield condition, timing, and resource placement.
 
 **Why? 为什么？**
 
@@ -78,7 +71,7 @@ Each "W" maps to a key principle in warfare: strategic goal, enemy understanding
   Clarify cloud platform, edge location, and deployment zones to guide security and performance strategies. |
 
 
-> Reminder: If you go to war without a solid plan, your project becomes fire-fighting — chaos is inevitable. 提醒：若无良策而急于动兵，开发即变“火攻”，项目势必陷入混乱。
+> * Reminder: If you go to war without a solid plan, your project becomes fire-fighting — chaos is inevitable. 提醒：若无良策而急于动兵，开发即变“火攻”，项目势必陷入混乱。
 
 ### 应用场景 Application Scenarios
 
