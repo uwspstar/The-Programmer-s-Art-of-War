@@ -80,50 +80,6 @@ Each "W" maps to a key principle in warfare: strategic goal, enemy understanding
 
 > Reminder: If you go to war without a solid plan, your project becomes fire-fighting — chaos is inevitable. 提醒：若无良策而急于动兵，开发即变“火攻”，项目势必陷入混乱。
 
-### 应用场景 Scenarios
-
-> * Starting a brand-new startup project (from 0 to 1) 启动一个全新的创业项目时（0 → 1 阶段）
-
-> * Refactoring a large monolithic system into microservices 重构大型单体系统为微服务
-
-> * Evaluating whether to adopt a new technology or framework 评估是否引入某项新技术或框架
-
-> * Creating a quarterly OKR roadmap for product and technology 为季度 OKR 制定产品与技术路线图
-
-> * Discussing with business teams why technology matters 与业务部门讨论“技术为什么重要”
-
-### 技术格言 Technical Aphorism
-
-> * “一名优秀的架构师，必是战略家。” “Every great architect is a strategist.”
-
-> * “无计划，则计划失败。” “Failing to plan is planning to fail.”
-
-### C# 类比代码 C# Code Analogy
-
-```csharp
-public class StrategyPlan
-{
-    public string BusinessGoal { get; set; }
-    public List<string> Risks { get; set; }
-    public string ArchitectureModel { get; set; }
-    public List<string> KeyPlayers { get; set; }
-    public bool IsReadyToStart => !string.IsNullOrEmpty(BusinessGoal) && !string.IsNullOrEmpty(ArchitectureModel);
-}
-```
-
-### 架构图类比 Diagram Analogy
-
-```mermaid
-flowchart TD
-    Start(项目启动 Project Kickoff)
-    Plan[战略规划 Strategy Planning]
-    Audit[技术审计 Tech Audit]
-    Arch[架构布局 Architecture]
-    Launch[启动开发 Development Starts]
-
-    Start --> Plan --> Audit --> Arch --> Launch
-```
-
 ### 应用场景 Application Scenarios
 
 > * 启动新项目时的架构设计会议 Architecture kickoff meetings for new projects
