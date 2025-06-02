@@ -5,8 +5,6 @@
 **Chapter 2: Waging War**
 **资源调度：开发周期与交付控制**
 
----
-
 ### 原文 + 英译 Original & Translation
 
 > **凡用兵之法，全国为上，破国次之；全军为上，破军次之。** In the operations of war, the best policy is to take a state intact; to ruin it is inferior.
