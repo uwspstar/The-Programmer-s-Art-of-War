@@ -121,16 +121,16 @@ public class TechStrategy
 
 ```mermaid
 graph TD
-    A[战略评估 Strategy Assessment] --> B{对手分析 Competitor Analysis}
-    B --> C1[伐谋 Outwit by Design]
-    B --> C2[伐交 Ecosystem Integration]
-    B --> C3[伐兵 技术竞争]
-    B --> C4[攻城 全量重写]
+    A[Strategy Assessment 战略评估] --> B{Competitor Analysis 对手分析}
+    B --> C1[Outwit by Design 伐谋]
+    B --> C2[Ecosystem Integration 伐交]
+    B --> C3[Technical Competition 伐兵]
+    B --> C4[Full Rewrite 攻城]
 
-    C1 --> D[用户体验提升 UX Upgrade]
-    C2 --> D[平台协同 Platform Leverage]
-    C3 --> D[性能优化 Code Refactoring]
-    C4 --> D[项目延期与风险 Delay & Risk]
+    C1 --> D[UX Upgrade 用户体验提升]
+    C2 --> D[Platform Leverage 平台协同]
+    C3 --> D[Code Refactoring 性能优化]
+    C4 --> D[Delay & Risk 项目延期与风险]
 ```
 
 > 图中显示战略路径从“智取”到“强攻”的风险与收益对比。 The diagram visualizes the risk-reward spectrum from strategic to brute-force approaches.
