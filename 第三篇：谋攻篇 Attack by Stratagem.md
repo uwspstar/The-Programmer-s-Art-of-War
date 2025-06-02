@@ -64,21 +64,21 @@ Attack by Stratagem 谋攻篇强调“上兵伐谋”，即在开发和竞争中
 
 ### 应用场景 Application Scenarios
 
-> * 架构升级的技术路线选择 * Choosing the upgrade path during architectural transitions
+> * 架构升级的技术路线选择 Choosing the upgrade path during architectural transitions
 
-> * 与竞品的性能/功能差异对比 * Competitive benchmarking and strategic product differentiation
+> * 与竞品的性能/功能差异对比 Competitive benchmarking and strategic product differentiation
 
-> * 第三方平台/API 选型与整合 * Strategic API / platform integration decisions
+> * 第三方平台/API 选型与整合 Strategic API / platform integration decisions
 
-> * 重构前的“战场形势评估” * Assessing battlefield (codebase) before large-scale refactoring
+> * 重构前的“战场形势评估” Assessing battlefield (codebase) before large-scale refactoring
 
 ### 技术格言 Technical Aphorism
 
-> 与其自造平台，不如整合生态。 Don’t build everything — win through ecosystem integration.
+> * 与其自造平台，不如整合生态。 Don’t build everything — win through ecosystem integration.
 
-> 懂代码是初级，懂战略才是高级。Knowing code makes you a developer; knowing strategy makes you a leader.
+> * 懂代码是初级，懂战略才是高级。Knowing code makes you a developer; knowing strategy makes you a leader.
 
-> 攻心为上，攻城为下；用户体验优于技术炫技。 Win users’ hearts, not just their screens.
+> * 攻心为上，攻城为下；用户体验优于技术炫技。 Win users’ hearts, not just their screens.
 
 ### C# 代码类比 Code Analogy
 
@@ -137,8 +137,8 @@ graph TD
 
 ### 总结 Summary
 
-> * 架构与技术选型应基于形势与用户体验，而非盲目热情 * Architecture and tech choices should be shaped by context, not passion
+> * 架构与技术选型应基于形势与用户体验，而非盲目热情 Architecture and tech choices should be shaped by context, not passion
 
-> * 了解竞争者是架构决策的必修课 * Studying competitors is critical in making the right architectural calls
+> * 了解竞争者是架构决策的必修课 Studying competitors is critical in making the right architectural calls
 
-> * 每一次重构，都应先问一句：我是在“攻城”吗？* Before any major rewrite, ask: am I laying siege?
+> * 每一次重构，都应先问一句：我是在“攻城”吗？Before any major rewrite, ask: am I laying siege?
