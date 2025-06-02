@@ -82,21 +82,21 @@ Each "W" maps to a key principle in warfare: strategic goal, enemy understanding
 
 ### 应用场景 Scenarios
 
-* Starting a brand-new startup project (from 0 to 1) 启动一个全新的创业项目时（0 → 1 阶段）
+> * Starting a brand-new startup project (from 0 to 1) 启动一个全新的创业项目时（0 → 1 阶段）
 
-* Refactoring a large monolithic system into microservices 重构大型单体系统为微服务
+> * Refactoring a large monolithic system into microservices 重构大型单体系统为微服务
 
-* Evaluating whether to adopt a new technology or framework 评估是否引入某项新技术或框架
+> * Evaluating whether to adopt a new technology or framework 评估是否引入某项新技术或框架
 
-* Creating a quarterly OKR roadmap for product and technology 为季度 OKR 制定产品与技术路线图
+> * Creating a quarterly OKR roadmap for product and technology 为季度 OKR 制定产品与技术路线图
 
-* Discussing with business teams why technology matters 与业务部门讨论“技术为什么重要”
+> * Discussing with business teams why technology matters 与业务部门讨论“技术为什么重要”
 
 ### 技术格言 Technical Aphorism
 
-> “一名优秀的架构师，必是战略家。” “Every great architect is a strategist.”
+> * “一名优秀的架构师，必是战略家。” “Every great architect is a strategist.”
 
-> “无计划，则计划失败。” “Failing to plan is planning to fail.”
+> * “无计划，则计划失败。” “Failing to plan is planning to fail.”
 
 ### C# 类比代码 C# Code Analogy
 
@@ -133,9 +133,9 @@ flowchart TD
 
 ### 技术格言 Technical Aphorism
 
-> 架构不明，项目必乱；战略不清，团队必散。 Without clear architecture, projects descend into chaos; without shared vision, teams fall apart.
+> * 架构不明，项目必乱；战略不清，团队必散。 Without clear architecture, projects descend into chaos; without shared vision, teams fall apart.
 
-> 设计先于编码，规划胜于热血。 Design precedes coding; planning beats passion.
+> * 设计先于编码，规划胜于热血。 Design precedes coding; planning beats passion.
 
 ### C# 代码
 
@@ -157,8 +157,7 @@ public class WarPlan // 战略规划
 }
 ```
 
-> 代码中的 `WarPlan` 即是一个完整的项目战略框架模型。
-> The `WarPlan` class models the complete strategic blueprint of a project.
+> 代码中的 `WarPlan` 即是一个完整的项目战略框架模型。The `WarPlan` class models the complete strategic blueprint of a project.
 
 ### 架构图示 Architectural Diagram
 
@@ -173,8 +172,7 @@ flowchart TD
     F --> H[交付控制 Release Gates]
 ```
 
-> 此图展示从“道”到“法”的整体系统规划路径。
-> This diagram shows the holistic flow from vision to discipline.
+> 此图展示从“道”到“法”的整体系统规划路径。This diagram shows the holistic flow from vision to discipline.
 
 ### 总结 Summary
 
