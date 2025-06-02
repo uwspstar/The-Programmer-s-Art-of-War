@@ -113,14 +113,14 @@ public class DeliveryPlanner
 
 ```mermaid
 flowchart LR
-    A[资源评估 Resource Estimation] --> B[选择策略 Select Strategy]
-    B --> C1[包围：多团队并行攻坚]
-    B --> C2[攻击：重点突破功能]
-    B --> C3[分裂：模块独立推进]
-    B --> C4[拖延：等待关键人力]
-    B --> C5[撤退：下个版本再战]
+    A[Resource Estimation 资源评估] --> B[Select Strategy 选择策略]
+    B --> C1[Envelop: Multi-team parallel offense 包围：多团队并行攻坚]
+    B --> C2[Strike: Focused feature breakthrough 攻击：重点突破功能]
+    B --> C3[Split: Independent modular pushes 分裂：模块独立推进]
+    B --> C4[Delay: Wait for critical resources 拖延：等待关键人力]
+    B --> C5[Retreat: Reattempt in future version 撤退：下个版本再战]
 
-    C1 & C2 & C3 & C4 & C5 --> D[交付计划 Delivery Plan]
+    C1 & C2 & C3 & C4 & C5 --> D[Delivery Plan 交付计划]
 ```
 
 > 此图模拟以“敌我比”为输入，形成多样交付路径的策略输出。This diagram illustrates adaptive delivery planning based on team capacity and project pressure.
