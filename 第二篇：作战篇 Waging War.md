@@ -66,25 +66,19 @@ This chapter emphasizes the balance between investment and return. The 5Ws help 
 
 ### 应用场景 Application Scenarios
 
-> * 产品交付节奏设计（敏捷 vs 瀑布）
-> * Designing delivery cadence (Agile vs Waterfall)
+> * 产品交付节奏设计（敏捷 vs 瀑布）* Designing delivery cadence (Agile vs Waterfall)
 
-> * 团队人力资源分配（Dev / QA / DevOps）
-> * Allocating team resources (Dev / QA / DevOps)
+> * 团队人力资源分配（Dev / QA / DevOps）* Allocating team resources (Dev / QA / DevOps)
 
-> * 估时与排期策略（避免 deadline 地狱）
-> * Estimation and scheduling strategy (avoiding deadline hell)
+> * 估时与排期策略（避免 deadline 地狱）* Estimation and scheduling strategy (avoiding deadline hell)
 
-> * 灾备资源调度（On-call & hotfix policy）
-> * Incident preparedness (on-call rotations, hotfix playbooks)
+> * 灾备资源调度（On-call & hotfix policy）* Incident preparedness (on-call rotations, hotfix playbooks)
 
 ### 技术格言 Technical Aphorism
 
-> 一次紧急救火是英雄，多次救火是体制失败。
-> One firefight is heroism; frequent ones reflect systemic failure.
+> 一次紧急救火是英雄，多次救火是体制失败。One firefight is heroism; frequent ones reflect systemic failure.
 
-> 时间不管理你，你就会被时间管理。
-> If you don’t manage time, time will manage you.
+> 时间不管理你，你就会被时间管理。If you don’t manage time, time will manage you.
 
 
 ### C# 代码类比 Code Analogy
