@@ -64,17 +64,13 @@ Attack by Stratagem 谋攻篇强调“上兵伐谋”，即在开发和竞争中
 
 ### 应用场景 Application Scenarios
 
-> * 架构升级的技术路线选择
-> * Choosing the upgrade path during architectural transitions
+> * 架构升级的技术路线选择 * Choosing the upgrade path during architectural transitions
 
-> * 与竞品的性能/功能差异对比
-> * Competitive benchmarking and strategic product differentiation
+> * 与竞品的性能/功能差异对比 * Competitive benchmarking and strategic product differentiation
 
-> * 第三方平台/API 选型与整合
-> * Strategic API / platform integration decisions
+> * 第三方平台/API 选型与整合 * Strategic API / platform integration decisions
 
-> * 重构前的“战场形势评估”
-> * Assessing battlefield (codebase) before large-scale refactoring
+> * 重构前的“战场形势评估” * Assessing battlefield (codebase) before large-scale refactoring
 
 ### 技术格言 Technical Aphorism
 
