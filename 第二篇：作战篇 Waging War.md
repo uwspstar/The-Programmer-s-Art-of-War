@@ -66,19 +66,19 @@ This chapter emphasizes the balance between investment and return. The 5Ws help 
 
 ### 应用场景 Application Scenarios
 
-> * 产品交付节奏设计（敏捷 vs 瀑布）* Designing delivery cadence (Agile vs Waterfall)
+> * 产品交付节奏设计（敏捷 vs 瀑布）Designing delivery cadence (Agile vs Waterfall)
 
-> * 团队人力资源分配（Dev / QA / DevOps）* Allocating team resources (Dev / QA / DevOps)
+> * 团队人力资源分配（Dev / QA / DevOps）Allocating team resources (Dev / QA / DevOps)
 
-> * 估时与排期策略（避免 deadline 地狱）* Estimation and scheduling strategy (avoiding deadline hell)
+> * 估时与排期策略（避免 deadline 地狱）Estimation and scheduling strategy (avoiding deadline hell)
 
-> * 灾备资源调度（On-call & hotfix policy）* Incident preparedness (on-call rotations, hotfix playbooks)
+> * 灾备资源调度（On-call & hotfix policy）Incident preparedness (on-call rotations, hotfix playbooks)
 
 ### 技术格言 Technical Aphorism
 
-> 一次紧急救火是英雄，多次救火是体制失败。One firefight is heroism; frequent ones reflect systemic failure.
+> * 一次紧急救火是英雄，多次救火是体制失败。One firefight is heroism; frequent ones reflect systemic failure.
 
-> 时间不管理你，你就会被时间管理。If you don’t manage time, time will manage you.
+> * 时间不管理你，你就会被时间管理。If you don’t manage time, time will manage you.
 
 
 ### C# 代码类比 Code Analogy
@@ -127,8 +127,8 @@ flowchart LR
 
 ### 总结 Summary
 
-> * 项目经理应以全局视角评估资源与风险 * Project managers must assess team capability and delivery risk holistically
+> * 项目经理应以全局视角评估资源与风险 Project managers must assess team capability and delivery risk holistically
 
-> * 不以加班为常态，不以混乱为英勇 * Heroism is not the norm. Planning beats chaos.
+> * 不以加班为常态，不以混乱为英勇 Heroism is not the norm. Planning beats chaos.
 
-> * 自动决策与资源评估机制，能提升团队稳定交付能力 * Automated planning enhances the team’s ability to deliver consistently and calmly
+> * 自动决策与资源评估机制，能提升团队稳定交付能力 Automated planning enhances the team’s ability to deliver consistently and calmly
