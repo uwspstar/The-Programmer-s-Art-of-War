@@ -62,7 +62,7 @@ This chapter emphasizes the balance between investment and return. The 5Ws help 
 * **Solution 解法建议：** Apply the 80/20 rule to focus effort on high-leverage components. 运用 80/20 法则，将兵力集中于高杠杆组件上。
 
 
-* 提醒：没有边界的投入不是战略，而是消耗。Reminder: Unlimited input without boundary is not strategy — it's erosion.
+> * 提醒：没有边界的投入不是战略，而是消耗。Reminder: Unlimited input without boundary is not strategy — it's erosion.
 
 ### 应用场景 Application Scenarios
 
